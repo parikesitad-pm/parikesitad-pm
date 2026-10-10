@@ -1,19 +1,23 @@
 <div align="center">
 
-<img src="./assets/modula-hero.svg" alt="Parikesit — a MODULA project, animated developer introduction" width="100%" />
+  <a href="https://parikesitad-pm.github.io/modula-project-profile/">
+    <img src="./assets/modula-hero.svg" alt="Animated MODULA developer profile hero for parikesitad-pm" width="100%" />
+  </a>
 
-<br />
+  <p>
+    <strong>Full-Stack Developer in Progress</strong> &nbsp;·&nbsp;
+    <strong>React / TypeScript</strong> &nbsp;·&nbsp;
+    <strong>Ruby on Rails</strong> &nbsp;·&nbsp;
+    <strong>Linux</strong>
+  </p>
 
-**Full-Stack Developer in Progress** &nbsp;·&nbsp; **React / TypeScript** &nbsp;·&nbsp; **Ruby on Rails** &nbsp;·&nbsp; **Linux**
+  <p><sub>Learning in public. Building projects that turn ideas into something useful.</sub></p>
 
-<sub>Learning in public. Building projects that turn ideas into something useful.</sub>
-
-<br /><br />
-
-[![Explore](https://img.shields.io/badge/EXPLORE-MODULA%20PROJECTS-782B4D?style=for-the-badge&logo=github&logoColor=white)](https://parikesitad-pm.github.io/modula-project-profile/)
-[![Connect](https://img.shields.io/badge/CONTACT-EMAIL-D784AA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parikesit.ad@gmail.com)
-[![Source](https://img.shields.io/badge/SOURCE-@parikesitad--pm-252636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parikesitad-pm)
-
+  <p>
+    <a href="https://parikesitad-pm.github.io/modula-project-profile/"><img alt="Explore MODULA projects" src="https://img.shields.io/badge/EXPLORE-MODULA%20PROJECTS-782B4D?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+    <a href="mailto:parikesit.ad@gmail.com"><img alt="Contact by email" src="https://img.shields.io/badge/CONTACT-EMAIL-D784AA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+    <a href="https://github.com/parikesitad-pm"><img alt="GitHub @parikesitad-pm" src="https://img.shields.io/badge/SOURCE-@parikesitad--pm-252636?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+  </p>
 </div>
 
 ---
@@ -116,17 +120,12 @@ An earlier experiment exploring multi-tenant business software, POS, stock manag
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite&theme=dark" alt="React, TypeScript, JavaScript, Tailwind CSS, Vite" />
-
-**Backend & data**
-
-<img src="https://skillicons.dev/icons?i=ruby,rails,php,laravel,nodejs,postgres,firebase,aws&theme=dark" alt="Ruby, Rails, PHP, Laravel, Node.js, PostgreSQL, Firebase, AWS" />
-
-**Daily drivers**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Linux, Git, GitHub, VS Code" />
+  <p><strong>Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite&theme=dark" alt="React, TypeScript, JavaScript, Tailwind CSS, Vite" />
+  <p><strong>Backend &amp; data</strong></p>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,php,laravel,nodejs,postgres,firebase,aws&theme=dark" alt="Ruby, Rails, PHP, Laravel, Node.js, PostgreSQL, Firebase, AWS" />
+  <p><strong>Daily drivers</strong></p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Linux, Git, GitHub, VS Code" />
 
 </div>
 
