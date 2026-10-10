@@ -8,7 +8,7 @@
     <strong>Full-Stack Developer in Progress</strong> &nbsp;·&nbsp;
     <strong>React / TypeScript</strong> &nbsp;·&nbsp;
     <strong>Ruby on Rails</strong> &nbsp;·&nbsp;
-    <strong>Linux</strong>
+    <strong>Shell / Linux</strong>
   </p>
 
   <p><sub>Learning in public. Building projects that turn ideas into something useful.</sub></p>
@@ -26,16 +26,32 @@
 
 ```ts
 const developer = {
+  name: "Dap",
   handle: "@parikesitad-pm",
-  focus: ["Full-Stack Web", "Backend APIs", "Developer Tools"],
+  focus: ["Full-Stack Web", "Backend APIs", "Shell & Automation"],
   currentlyLearning: ["Ruby on Rails", "React", "TypeScript"],
-  dailyDriver: "Linux + terminal",
+  favoriteShells: ["Zsh", "Bash", "PowerShell 7"],
+  favoriteTools: ["Starship", "fzf", "zoxide", "eza", "bat"],
+  desktopGUI: ["Python", "CustomTkinter"],
   afterHours: "Broadcast streaming & live production",
   philosophy: "Build. Break. Learn. Repeat.",
 };
 ```
 
-I’m a developer who likes bridging thoughtful interfaces and dependable backend systems. I learn through real projects, careful documentation, and plenty of experiments. **MODULA** is the creative identity connecting several of those builds.
+Hey, I'm **Dap**. I build web apps, enjoy backend development, and genuinely love working in a shell. I spend a lot of time customizing prompts, writing automation, and building useful little tools for Linux and Windows. **MODULA** is the identity connecting many of my projects.
+
+### `$ echo "shell is home"`
+
+**Shell enthusiast** — Zsh and Bash on Linux, PowerShell 7 on Windows. I enjoy scripting, dotfiles, aliases, prompt theming, interactive CLI tools, and keyboard-driven workflows with **Starship**, **fzf**, **zoxide**, **eza**, and **bat**.
+
+```sh
+# terminal-first workflow
+z projects
+git status -sb
+pnpm dev
+```
+
+My interests also include **Python desktop apps**; [AutoFailover](https://github.com/parikesitad-pm/smart_auto_failover) uses **CustomTkinter** for its desktop interface.
 
 ### ◈ MODULA projects
 
@@ -88,7 +104,19 @@ A portable, reproducible workflow for capturing and rebuilding a Windows worksta
 </details>
 
 <details>
-<summary><b>05 — Afrizal Portfolio</b> · Immersive creative showcase</summary>
+<summary><b>05 — AutoFailover</b> · Python desktop GUI · CustomTkinter</summary>
+<br />
+
+Network failover automation designed to protect live-production workloads such as vMix, OBS, and Zoom by managing healthy network paths.
+
+**Stack:** Python · CustomTkinter · networking tools
+
+[**Source ↗**](https://github.com/parikesitad-pm/smart_auto_failover)
+
+</details>
+
+<details>
+<summary><b>06 — Afrizal Portfolio</b> · Immersive creative showcase</summary>
 <br />
 
 Interactive portfolio with motion, 3D integration, and multilingual content.
@@ -100,7 +128,7 @@ Interactive portfolio with motion, 3D integration, and multilingual content.
 </details>
 
 <details>
-<summary><b>06 — MODULA Base</b> · ERP / POS architecture experiment</summary>
+<summary><b>07 — MODULA Base</b> · ERP / POS architecture experiment</summary>
 <br />
 
 An earlier experiment exploring multi-tenant business software, POS, stock management, and accounting foundations. *Exploratory / legacy project; not presented as production-ready.*
@@ -111,10 +139,19 @@ An earlier experiment exploring multi-tenant business software, POS, stock manag
 
 </details>
 
+### ⌘ Shell / Linux automation projects
+
+These are more than environment tweaks — they're scripting, setup, and reproducibility projects.
+
+- [**Manjaro GNOME Dotfiles**](https://github.com/parikesitad-pm/dotfile_v2) — Zsh, Bash, Starship, Kitty and automated developer setup.
+- [**Gundam Celestial GNOME Theme**](https://github.com/parikesitad-pm/gundam-celestial-gnome-theme) — declarative Shell-based GNOME configuration and desktop automation.
+- [**Gundam Glass XFCE**](https://github.com/parikesitad-pm/xfce_themed) — Bash-powered XFCE theming and setup scripts.
+- [**Linux Mint Dotfiles**](https://github.com/parikesitad-pm/dotfiles) — earlier terminal tooling and Linux environment setup.
+- [**DOTMOD**](https://github.com/parikesitad-pm/windows_dotfiles) — PowerShell workstation backups and reproducible Windows setup.
+
 ### ◌ More from the workbench
 
 - [Sena Landing Page](https://github.com/parikesitad-pm/landingpage_sena_reactts) — Personal family landing page made with React & TypeScript.
-- [Manjaro GNOME Dotfiles](https://github.com/parikesitad-pm/dotfile_v2) — My Linux development environment configuration.
 
 ### ⚙ Tech & tools
 
@@ -127,6 +164,10 @@ An earlier experiment exploring multi-tenant business software, POS, stock manag
   <p><strong>Daily drivers</strong></p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Linux, Git, GitHub, VS Code" />
 
+  <p><strong>Shell, scripting &amp; desktop GUI</strong></p>
+
+  <p><code>Zsh · Bash · PowerShell 7 · Python · CustomTkinter · Starship · fzf · zoxide · eza · bat</code></p>
+
 </div>
 
 ### ⌘ Quick navigation
@@ -136,13 +177,13 @@ An earlier experiment exploring multi-tenant business software, POS, stock manag
 
 ```shell
 $ whoami
-parikesitad-pm
+Dap (@parikesitad-pm)
 
 $ cat interests.txt
-full-stack web · backend APIs · developer experience · Linux
+full-stack web · backend APIs · shell scripting · desktop GUIs
 
 $ ls modula/
-forge/  stack/  untitled/  dotmod/  creative-portfolio/  modula-base/
+forge/  stack/  untitled/  dotmod/  autofailover/  creative/  modula-base/
 
 $ echo $MOTTO
 Build. Break. Learn. Repeat.
