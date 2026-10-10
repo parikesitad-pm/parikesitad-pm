@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/assets/hero.svg" alt="Parikesit — a MODULA project, animated developer introduction" width="100%" />
+<img src="./assets/modula-hero.svg" alt="Parikesit — a MODULA project, animated developer introduction" width="100%" />
 
 <br />
 
@@ -168,13 +168,9 @@ Interested in working together on a backend API, a web product, or a useful open
 
 </div>
 
-<!--
-  A real interactive JavaScript-powered companion page is available in docs/.
-  To deploy through GitHub Pages: Settings > Pages > Deploy from a branch > main /docs.
-  Then this page will be served at https://parikesitad-pm.github.io/parikesitad-pm/
-  GitHub sanitizes <script> tags in README Markdown; put interactive JS in the site.
--->
-
 ### 🌐 Interactive portfolio
 
-**[Open the interactive MODULA profile →](https://parikesitad-pm.github.io/modula-project-profile/)** — JavaScript motion, command palette, project filters, and interactive project details. To publish, set Settings → Pages → Deploy from a branch → `main` / `/docs`.
+**[Open the interactive MODULA profile →](https://parikesitad-pm.github.io/modula-project-profile/)** — JavaScript animation, command palette, project filters, and detailed project showcase.
+
+[Website source repository](https://github.com/parikesitad-pm/modula-project-profile). JavaScript runs on GitHub Pages, while the README above uses GitHub-supported Markdown, SVG and expandable sections.
+
