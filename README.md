@@ -1,12 +1,15 @@
 <div align="center">
 
   <a href="https://parikesitad-pm.github.io/modula-project-profile/">
-    <img src="./assets/modula-hero.svg" alt="Dap — animated MODULA developer profile, shell and creative engineering" width="100%" />
+    <picture>
+      <source media="(max-width: 767px)" srcset="./assets/hero-mobile.svg" />
+      <img src="./assets/hero-desktop.svg" alt="Call me Dap — MODULA Crimson profile: about me, tech stack, shell tools, live streaming and projects" width="100%" />
+    </picture>
   </a>
 
   <p><strong>Hey, I'm Dap.</strong></p>
   <p><strong>Full-Stack Developer in Progress</strong> · <strong>Shell Enthusiast</strong> · <strong>Desktop Tools Builder</strong></p>
-  <p><sub>React / TypeScript · Ruby on Rails · Bash / Zsh / PowerShell · Python · Broadcast Streaming</sub></p>
+  <p><sub>React / TypeScript · Ruby on Rails · Zsh / Bash / PowerShell 7 · Python / CustomTkinter · vMix / OBS Studio</sub></p>
 
   <p>
     <a href="https://parikesitad-pm.github.io/modula-project-profile/"><img alt="Explore MODULA" src="https://img.shields.io/badge/EXPLORE-MODULA%20ECOSYSTEM-B82149?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
