@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="2000" viewBox="0 0 720 2000" role="img" aria-labelledby="title description">
+<title id="title">Call me Dap — MODULA developer profile, mobile-friendly crimson edition</title>
+<desc id="description">Animated vertical GitHub README banner with Dap's introduction, about me, tech stack, terminal tools, separate streaming production tools and a short MODULA project explorer.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12060e"/><stop offset=".57" stop-color="#2d0a1d"/><stop offset="1" stop-color="#1b0713"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#30101f"/><stop offset="1" stop-color="#190b14"/></linearGradient>
+  <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#361326"/><stop offset="1" stop-color="#210e1b"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#ff789c"/><stop offset=".5" stop-color="#e4295c"/><stop offset="1" stop-color="#752142"/></linearGradient>
+  <linearGradient id="underline" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#f03262"/><stop offset=".65" stop-color="#ff88a8"/><stop offset="1" stop-color="#ff376d"/></linearGradient>
+  <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0V56" fill="none" stroke="#b1355e" stroke-width=".7" opacity=".30"/></pattern>
+  <style>
+  .mono{font-family:'DejaVu Sans Mono','Liberation Mono',monospace}
+  .sans{font-family:'Inter','Arial',sans-serif}
+  </style>
+</defs>
+
+<rect x="0" y="0" width="720" height="2000" rx="20" fill="url(#bg)"/>
+<rect x="0" y="0" width="720" height="2000" rx="0" fill="url(#grid)" opacity="0.8"/>
+<rect x="9" y="10" width="702" height="1980" rx="22" fill="none" stroke="#a42c53" stroke-width="2"/>
+<path d="M30 78H690" fill="none" stroke="#992d53" stroke-width="2"/>
+<path d="M30 78H205" stroke="#fd5988" stroke-width="2.5" opacity=".95"><animate attributeName="stroke-dasharray" values="10 165;165 10;10 165" dur="8s" repeatCount="indefinite"/></path>
+<circle cx="43" cy="46" r="6" fill="#fd5077"><animate attributeName="opacity" values="1;.55;1" dur="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="66" cy="46" r="6" fill="#ffafbe"><animate attributeName="opacity" values="1;.55;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="89" cy="46" r="6" fill="#e2a3b4"><animate attributeName="opacity" values="1;.55;1" dur="2.7s" repeatCount="indefinite"/></circle>
+<text class="mono" x="130" y="54" font-size="23" fill="#fbd8e2" font-weight="750" letter-spacing="0.6">MODULA / DEV PROFILE</text>
+<text class="mono" x="662" y="54" font-size="18" fill="#f997b5" font-weight="650" text-anchor="end">DAP / MODULA</text>
+<rect x="30" y="91" width="660" height="265" rx="20" fill="url(#panel)" stroke="#98314c" stroke-width="1.5"/>
+<rect x="30" y="91" width="5" height="265" rx="2" fill="url(#accent)"/>
+<text class="mono" x="52" y="134" font-size="22" fill="#ffa3bb" font-weight="700" letter-spacing="0.4">HEY, I'M DAP  /  SHELL ENTHUSIAST</text>
+<text class="mono" x="52" y="181" font-size="40" fill="#ff6c90" font-weight="750" letter-spacing="1.1">CALL ME</text>
+<text class="sans" x="50" y="293" font-size="124" fill="#fff6f8" font-weight="820">Dap</text>
+<text class="mono" x="357" y="288" font-size="89" fill="#e5416d" font-weight="650">//</text>
+<rect x="52" y="308" width="425" height="7" rx="3" fill="url(#underline)"/>
+<rect x="52" y="308" width="140" height="7" rx="3" fill="#ffd4e0" opacity=".55"><animate attributeName="x" values="52;335;52" dur="5.8s" repeatCount="indefinite"/></rect>
+<text class="mono" x="52" y="345" font-size="25" fill="#ff98b2" font-weight="700" letter-spacing="0.1">FULL-STACK DEVELOPER IN PROGRESS</text>
+<rect x="30" y="372" width="660" height="186" rx="20" fill="url(#panel)" stroke="#98314c" stroke-width="1.5"/>
+<rect x="30" y="372" width="5" height="186" rx="2" fill="url(#accent)"/>
+<text class="mono" x="50" y="416" font-size="25" fill="#ff6d94" font-weight="750" letter-spacing="1.2">ABOUT ME</text>
+<text class="mono" x="50" y="464" font-size="24" fill="#f9edf1" font-weight="500">I build web apps, APIs, desktop tools,</text>
+<text class="mono" x="50" y="494" font-size="24" fill="#f9edf1" font-weight="500">and shell automation. I love Linux,</text>
+<text class="mono" x="50" y="524" font-size="24" fill="#f9edf1" font-weight="500">terminal workflows and CustomTkinter GUIs.</text>
+<rect x="30" y="572" width="660" height="435" rx="20" fill="url(#panel)" stroke="#98314c" stroke-width="1.5"/>
+<rect x="30" y="572" width="5" height="435" rx="2" fill="url(#accent)"/>
+<text class="mono" x="50" y="617" font-size="25" fill="#ff6d94" font-weight="750" letter-spacing="1.2">TECH STACK</text>
+<rect x="47" y="647" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="58" y="658" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<ellipse cx="79" cy="679" rx="17" ry="7" fill="none" stroke="#51dbf9" stroke-width="2.7" transform="rotate(0 79 679)"/>
+<ellipse cx="79" cy="679" rx="17" ry="7" fill="none" stroke="#51dbf9" stroke-width="2.7" transform="rotate(60 79 679)"/>
+<ellipse cx="79" cy="679" rx="17" ry="7" fill="none" stroke="#51dbf9" stroke-width="2.7" transform="rotate(-60 79 679)"/>
+<circle cx="79" cy="679" r="4" fill="#51dbf9"/>
+<text class="sans" x="111" y="687" font-size="25" fill="#f9ebf0" font-weight="650">React</text>
+<rect x="365" y="647" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="376" y="658" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<rect x="381" y="663" width="32" height="32" rx="4" fill="#2874e6"/>
+<text class="sans" x="397" y="686" font-size="16" fill="white" font-weight="850" text-anchor="middle">TS</text>
+<text class="sans" x="429" y="687" font-size="25" fill="#f9ebf0" font-weight="650">TypeScript</text>
+<rect x="47" y="717" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="58" y="728" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M65 757Q74 734 93 740M67 760Q78 751 91 758" fill="none" stroke="#e94264" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="86" cy="741" r="2" fill="#e94264"/>
+<text class="sans" x="111" y="757" font-size="25" fill="#f9ebf0" font-weight="650">Ruby on Rails</text>
+<rect x="365" y="717" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="376" y="728" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M380 745Q388 737 397 745T414 745M380 755Q388 747 397 755T414 755" fill="none" stroke="#51cfee" stroke-width="4"/>
+<text class="sans" x="429" y="757" font-size="25" fill="#f9ebf0" font-weight="650">Tailwind CSS</text>
+<rect x="47" y="787" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="58" y="798" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<text class="sans" x="79" y="826" font-size="16" fill="#68a8e8" font-weight="800" text-anchor="middle">PG</text>
+<text class="sans" x="111" y="827" font-size="25" fill="#f9ebf0" font-weight="650">PostgreSQL</text>
+<rect x="365" y="787" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="376" y="798" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M387 831L391 805L405 825L407 810L410 831Z" fill="#ffb32b"/><path d="M387 831L401 815L410 831Z" fill="#f47331"/>
+<text class="sans" x="429" y="827" font-size="25" fill="#f9ebf0" font-weight="650">Firebase</text>
+<rect x="47" y="857" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="58" y="868" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M67 885V880Q67 876 72 876H83Q88 876 88 881V889H77V893H68Q65 893 65 890Z" fill="#2c90bd"/>
+<path d="M91 893V898Q91 902 86 902H75Q70 902 70 897V889H81V885H90Q93 885 93 888Z" fill="#ffd04e"/>
+<circle cx="82" cy="881" r="1.5" fill="#fff"/>
+<circle cx="76" cy="897" r="1.5" fill="#fff"/>
+<text class="sans" x="111" y="897" font-size="25" fill="#f9ebf0" font-weight="650">Python</text>
+<rect x="365" y="857" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="376" y="868" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M397 872L412 881V897L397 906L382 897V881Z" fill="none" stroke="#6fbb67" stroke-width="3.2"/>
+<text class="sans" x="397" y="895" font-size="18" fill="#6fbb67" font-weight="850" text-anchor="middle">N</text>
+<text class="sans" x="429" y="897" font-size="25" fill="#f9ebf0" font-weight="650">Node.js</text>
+<rect x="47" y="927" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="58" y="938" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M65 946L80 975L95 946L79 953Z" fill="#b77eff"/><path d="M81 941L74 961H82L77 977L91 957H83L88 941Z" fill="#ffd754"/>
+<text class="sans" x="111" y="967" font-size="25" fill="#f9ebf0" font-weight="650">Vite</text>
+<rect x="365" y="927" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="376" y="938" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<text class="sans" x="397" y="964" font-size="16" fill="#ffad41" font-weight="750" text-anchor="middle">aws</text>
+<path d="M386 969Q397 977 409 968" fill="none" stroke="#ffad41" stroke-width="2.4"/>
+<text class="sans" x="429" y="967" font-size="25" fill="#f9ebf0" font-weight="650">AWS</text>
+<rect x="30" y="1023" width="660" height="344" rx="20" fill="url(#panel)" stroke="#98314c" stroke-width="1.5"/>
+<rect x="30" y="1023" width="5" height="344" rx="2" fill="url(#accent)"/>
+<text class="mono" x="50" y="1069" font-size="25" fill="#ff6d94" font-weight="750" letter-spacing="1.2">SHELL / TOOLS</text>
+<rect x="47" y="1090" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="58" y="1101" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<rect x="64" y="1110" width="30" height="25" rx="4" fill="none" stroke="#e47daa" stroke-width="2.1"/>
+<text class="mono" x="79" y="1128" font-size="14" fill="#e47daa" font-weight="800" text-anchor="middle">zsh</text>
+<text class="sans" x="111" y="1130" font-size="23" fill="#f9ebf0" font-weight="650">Zsh + Starship</text>
+<rect x="365" y="1090" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="376" y="1101" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<rect x="382" y="1110" width="30" height="25" rx="4" fill="none" stroke="#92d2a0" stroke-width="2.1"/>
+<text class="mono" x="397" y="1128" font-size="14" fill="#92d2a0" font-weight="800" text-anchor="middle">$</text>
+<text class="sans" x="429" y="1130" font-size="25" fill="#f9ebf0" font-weight="650">Bash</text>
+<rect x="47" y="1160" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="58" y="1171" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<rect x="64" y="1180" width="30" height="25" rx="4" fill="none" stroke="#58baff" stroke-width="2.1"/>
+<text class="mono" x="79" y="1198" font-size="14" fill="#58baff" font-weight="800" text-anchor="middle">&gt;_</text>
+<text class="sans" x="111" y="1200" font-size="25" fill="#f9ebf0" font-weight="650">PowerShell 7</text>
+<rect x="365" y="1160" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="376" y="1171" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M387 1186L402 1175L412 1180V1205L402 1209L387 1197L382 1201L379 1196L396 1192L379 1187L383 1183Z" fill="none" stroke="#3e9df5" stroke-width="3"/>
+<text class="sans" x="429" y="1200" font-size="25" fill="#f9ebf0" font-weight="650">VS Code</text>
+<rect x="47" y="1230" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="58" y="1241" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M65 1250V1274L71 1279V1256M71 1250L90 1273M90 1250V1275" fill="none" stroke="#61bf80" stroke-width="4"/>
+<text class="sans" x="111" y="1270" font-size="25" fill="#f9ebf0" font-weight="650">Neovim</text>
+<rect x="365" y="1230" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="376" y="1241" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<circle cx="387" cy="1254" r="4" fill="#ff6953"/>
+<circle cx="404" cy="1254" r="4" fill="#ff6953"/>
+<circle cx="404" cy="1272" r="4" fill="#ff6953"/>
+<path d="M387 1254H404V1272M387 1254L404 1272" fill="none" stroke="#ff6953" stroke-width="2.5"/>
+<text class="sans" x="429" y="1270" font-size="25" fill="#f9ebf0" font-weight="650">Git</text>
+<rect x="47" y="1300" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="58" y="1311" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<rect x="64" y="1320" width="30" height="25" rx="4" fill="none" stroke="#b57fea" stroke-width="2.1"/>
+<text class="mono" x="79" y="1338" font-size="14" fill="#b57fea" font-weight="800" text-anchor="middle">&gt;_</text>
+<text class="sans" x="111" y="1340" font-size="23" fill="#f9ebf0" font-weight="650">Kitty Terminal</text>
+<rect x="365" y="1300" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="376" y="1311" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<rect x="382" y="1320" width="30" height="25" rx="4" fill="none" stroke="#ffd271" stroke-width="2.1"/>
+<text class="mono" x="397" y="1338" font-size="14" fill="#ffd271" font-weight="800" text-anchor="middle">fzf</text>
+<text class="sans" x="429" y="1340" font-size="25" fill="#f9ebf0" font-weight="650">fzf + zoxide</text>
+<rect x="30" y="1383" width="660" height="234" rx="20" fill="url(#panel)" stroke="#98314c" stroke-width="1.5"/>
+<rect x="30" y="1383" width="5" height="234" rx="2" fill="url(#accent)"/>
+<text class="mono" x="50" y="1429" font-size="25" fill="#ff6d94" font-weight="750" letter-spacing="1.2">LIVE STREAMING</text>
+<rect x="47" y="1451" width="200" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="58" y="1462" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<rect x="65" y="1469" width="12" height="12" rx="1" fill="#24c4db"/>
+<rect x="80" y="1469" width="12" height="12" rx="1" fill="#4c8be5"/>
+<rect x="65" y="1484" width="12" height="12" rx="1" fill="#a35eff"/>
+<rect x="80" y="1484" width="12" height="12" rx="1" fill="#4dc66f"/>
+<text class="sans" x="111" y="1491" font-size="25" fill="#f9ebf0" font-weight="650">vMix</text>
+<rect x="259" y="1451" width="200" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="270" y="1462" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<circle cx="291" cy="1483" r="16" fill="#080909"/>
+<path d="M291 1483C280 1466 303 1468 305 1481" fill="none" stroke="#f4f1f5" stroke-width="2.5" transform="rotate(0 291 1483)"/>
+<path d="M291 1483C280 1466 303 1468 305 1481" fill="none" stroke="#f4f1f5" stroke-width="2.5" transform="rotate(120 291 1483)"/>
+<path d="M291 1483C280 1466 303 1468 305 1481" fill="none" stroke="#f4f1f5" stroke-width="2.5" transform="rotate(240 291 1483)"/>
+<text class="sans" x="323" y="1491" font-size="22" fill="#f9ebf0" font-weight="650">OBS Studio</text>
+<rect x="471" y="1451" width="200" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
+<rect x="482" y="1462" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<rect x="488" y="1475" width="23" height="17" rx="5" fill="#63a9ff"/>
+<path d="M512 1479L520 1474V1493L512 1489Z" fill="#63a9ff"/>
+<text class="sans" x="535" y="1491" font-size="25" fill="#f9ebf0" font-weight="650">Zoom</text>
+<line x1="52" y1="1531" x2="669" y2="1531" stroke="#8c294a" stroke-width="1.2"/>
+<text class="mono" x="52" y="1570" font-size="24" fill="#f9edf1" font-weight="500">Multi-camera switching  /  audio routing</text>
+<text class="mono" x="52" y="1599" font-size="24" fill="#f9edf1" font-weight="500">overlays  /  streaming workflows  /  events</text>
+<rect x="30" y="1632" width="660" height="297" rx="20" fill="url(#panel)" stroke="#98314c" stroke-width="1.5"/>
+<rect x="30" y="1632" width="5" height="297" rx="2" fill="url(#accent)"/>
+<text class="mono" x="50" y="1678" font-size="25" fill="#ff6d94" font-weight="750" letter-spacing="1.2">MODULA PROJECTS</text>
+<rect x="47" y="1705" width="306" height="58" rx="12" fill="#25101b" stroke="#873550" stroke-width="1"/>
+<rect x="56" y="1713" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M77 1718L91 1726V1742L77 1750L63 1742V1726Z" stroke="#ff7b9b" fill="none" stroke-width="2.6"/>
+<circle cx="77" cy="1734" r="4" fill="#ff7b9b"/>
+<text class="sans" x="108" y="1743" font-size="23" fill="#ffecf1" font-weight="660">Forge</text>
+<rect x="365" y="1705" width="306" height="58" rx="12" fill="#25101b" stroke="#873550" stroke-width="1"/>
+<rect x="374" y="1713" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M395 1718L409 1726V1742L395 1750L381 1742V1726Z" stroke="#ff9caa" fill="none" stroke-width="2.6"/>
+<circle cx="395" cy="1734" r="4" fill="#ff9caa"/>
+<text class="sans" x="426" y="1743" font-size="23" fill="#ffecf1" font-weight="660">STACK</text>
+<rect x="47" y="1773" width="306" height="58" rx="12" fill="#25101b" stroke="#873550" stroke-width="1"/>
+<rect x="56" y="1781" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M77 1786L91 1794V1810L77 1818L63 1810V1794Z" stroke="#ffbc7e" fill="none" stroke-width="2.6"/>
+<circle cx="77" cy="1802" r="4" fill="#ffbc7e"/>
+<text class="sans" x="108" y="1811" font-size="23" fill="#ffecf1" font-weight="660">untitled</text>
+<rect x="365" y="1773" width="306" height="58" rx="12" fill="#25101b" stroke="#873550" stroke-width="1"/>
+<rect x="374" y="1781" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M395 1786L409 1794V1810L395 1818L381 1810V1794Z" stroke="#ff7a7e" fill="none" stroke-width="2.6"/>
+<circle cx="395" cy="1802" r="4" fill="#ff7a7e"/>
+<text class="sans" x="426" y="1811" font-size="23" fill="#ffecf1" font-weight="660">POINT</text>
+<rect x="47" y="1841" width="306" height="58" rx="12" fill="#25101b" stroke="#873550" stroke-width="1"/>
+<rect x="56" y="1849" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M77 1854L91 1862V1878L77 1886L63 1878V1862Z" stroke="#e8a3f8" fill="none" stroke-width="2.6"/>
+<circle cx="77" cy="1870" r="4" fill="#e8a3f8"/>
+<text class="sans" x="108" y="1879" font-size="23" fill="#ffecf1" font-weight="660">MODULA Base</text>
+<rect x="365" y="1841" width="306" height="58" rx="12" fill="#25101b" stroke="#873550" stroke-width="1"/>
+<rect x="374" y="1849" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
+<path d="M395 1854L409 1862V1878L395 1886L381 1878V1862Z" stroke="#f9a4ba" fill="none" stroke-width="2.6"/>
+<circle cx="395" cy="1870" r="4" fill="#f9a4ba"/>
+<text class="sans" x="426" y="1879" font-size="23" fill="#ffecf1" font-weight="660">Explore all ↗</text>
+<text class="mono" x="51" y="1920" font-size="19" fill="#b989a3" font-weight="500">5 core projects  /  11 builds across MODULA</text>
+<text class="mono" x="33" y="1971" font-size="19" fill="#ff92ad" font-weight="600">crafted with &lt;3 by parikesitad-pm</text>
+<text class="mono" x="686" y="1971" font-size="18" fill="#ff92ad" font-weight="600" text-anchor="end">a MODULA project</text>
+</svg>
