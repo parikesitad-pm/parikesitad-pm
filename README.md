@@ -8,12 +8,12 @@
   </a>
 
   <p><strong>Hey, I'm Dap.</strong></p>
-  <p><strong>Full-Stack Developer in Progress</strong> · <strong>Shell Enthusiast</strong> · <strong>Desktop Tools Builder</strong></p>
+  <p><strong>Full-Stack Developer</strong> · <strong>Broadcast Streaming Engineer</strong> · <strong>Shell Enthusiast</strong></p>
   <p><sub>React / TypeScript · Ruby on Rails · Zsh / Bash / PowerShell 7 · Python / CustomTkinter · vMix / OBS Studio</sub></p>
 
   <p>
     <a href="https://parikesitad-pm.github.io/modula-project-profile/"><img alt="Explore MODULA" src="https://img.shields.io/badge/EXPLORE-MODULA%20ECOSYSTEM-B82149?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-    <a href="mailto:parikesit.ad@gmail.com"><img alt="Contact by email" src="https://img.shields.io/badge/CONTACT-EMAIL-A5314F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+    <a href="mailto:parikesitad.pm@gmail.com"><img alt="Contact by email" src="https://img.shields.io/badge/CONTACT-EMAIL-A5314F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
     <a href="https://github.com/parikesitad-pm"><img alt="GitHub profile" src="https://img.shields.io/badge/GITHUB-parikesitad--pm-401923?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
   </p>
 
@@ -44,10 +44,10 @@ The main product builds and foundations under **MODULA** — separate projects, 
 
 | Project | What I'm building | Stack / stage |
 | --- | --- | --- |
-| **[Forge](https://github.com/parikesitad-pm/forge)** | A thinking companion for capturing sparks and growing ideas. [Explore live ↗](https://frontendreactts.vercel.app) | Rails · React TS · evolving |
+| **[Forge](https://github.com/parikesitad-pm/forge)** | A thinking companion for capturing sparks and growing ideas. [Open preview ↗](https://frontendreactts.vercel.app) | Rails · React TS · evolving |
 | **[STACK](https://github.com/parikesitad-pm/stack-react_ts_with_aws_deployment)** | A Markdown-first, local-first notes workspace. [Explore live ↗](https://stack-md.online) | React TS · IndexedDB · Auth0 |
-| **[untitled](https://github.com/parikesitad-pm/frontend_untitled_modula_project_react_ts)** | Activity builder, assessments, participants, leaderboard and results. [Backend ↗](https://github.com/parikesitad-pm/backend_untitled_modula_project_firebase) | React TS · Firebase |
-| **[POINT by MODULA](https://github.com/parikesitad-pm/point_by_modula_project_frontend)** | Point-of-sale & business operations UI, including owner dashboard and cashier terminal. | React 19 · TS · Tailwind v4 · frontend/mock-stage |
+| **[QUEICE](https://github.com/parikesitad-pm/frontend_untitled_modula_project_react_ts)** | Activity builder, assessments, participants, leaderboard and results. [Backend ↗](https://github.com/parikesitad-pm/backend_untitled_modula_project_firebase) | React TS · Firebase |
+| **POINT by MODULA** (private repo) | Point-of-sale & business operations UI, including owner dashboard and cashier terminal. | React 19 · TS · Tailwind v4 · frontend/mock-stage |
 | **[MODULA Base](https://github.com/parikesitad-pm/modula_base)** | Earlier experiments in ERP, POS, inventory and accounting foundations. | Ruby · React TS · legacy architecture exploration |
 
 > **Product status matters:** POINT's repository documents a mock frontend evaluation, not a verified deployed payment system. MODULA Base is an earlier experimental foundation, not a production-ready enterprise product.
@@ -66,7 +66,7 @@ This is my other favorite workshop: the command line, reproducible workstations,
 
 ### 🎨 Creative work & other builds
 
-**[Afrizal Pramudyan Portfolio](https://github.com/parikesitad-pm/ap_branding_react_ts)** — an interactive React / TypeScript portfolio with GSAP, Three.js, and multilingual content. [Visit ↗](https://ap-branding-react-ts.vercel.app)
+**Afrizal Pramudyan Portfolio** — an interactive Next.js / TypeScript portfolio with GSAP, Three.js, and multilingual content (private repo). [Visit ↗](https://branding-ap-nextjs-seo-optimized.vercel.app/en)
 
 **[Sena Landing Page](https://github.com/parikesitad-pm/landingpage_sena_reactts)** — a personal family landing page built with React and TypeScript.
 
@@ -109,7 +109,7 @@ $ git status --short
 
 I'm interested in backend APIs, full-stack web projects, terminal tooling, desktop utility applications and practical open-source projects.
 
-Get in touch: **[parikesit.ad@gmail.com](mailto:parikesit.ad@gmail.com)**.
+Get in touch: **[parikesitad.pm@gmail.com](mailto:parikesitad.pm@gmail.com)** · [LinkedIn](https://id.linkedin.com/in/dausan-adam-parikesit-7826b33b7) · [HackerRank](https://www.hackerrank.com/profile/parikesit_ad) · [Site](https://parikesitad.vercel.app).
 
 </details>
 
