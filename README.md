@@ -117,7 +117,7 @@ Get in touch: **[parikesitad.pm@gmail.com](mailto:parikesitad.pm@gmail.com)** ·
 
 <div align="center">
   <p><strong><a href="https://parikesitad-pm.github.io/modula-project-profile/">OPEN THE INTERACTIVE MODULA PROJECT EXPLORER ↗</a></strong></p>
-  <p><sub>crafted with &lt;3 by <a href="d-ap.my.id">parikesitad-pm</a> · <strong>a MODULA project</strong></sub></p>
+  <p><sub>crafted with &lt;3 by [parikesitad-pm](https://d-ap.my.id) · <strong>a MODULA project</strong></sub></p>
 </div>
 
 <!-- GitHub profile READMEs do not execute JavaScript. The interactive site is deployed separately through GitHub Pages. -->
