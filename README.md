@@ -109,7 +109,7 @@ $ git status --short
 
 I'm interested in backend APIs, full-stack web projects, terminal tooling, desktop utility applications and practical open-source projects.
 
-Get in touch: **[parikesitad.pm@gmail.com](mailto:parikesitad.pm@gmail.com)** · [LinkedIn](https://id.linkedin.com/in/dausan-adam-parikesit-7826b33b7) · [HackerRank](https://www.hackerrank.com/profile/parikesit_ad) · [Site](https://parikesitad.vercel.app).
+Get in touch: **[parikesitad.pm@gmail.com](mailto:parikesitad.pm@gmail.com)** · [LinkedIn](https://id.linkedin.com/in/dausan-adam-parikesit-7826b33b7) · [HackerRank](https://www.hackerrank.com/profile/parikesit_ad) · [Site](https://d-ap.my.id).
 
 </details>
 
