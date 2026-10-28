@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980" role="img" aria-labelledby="title description">
 <title id="title">Call me Dap — MODULA Crimson Developer Profile</title>
-<desc id="description">Animated desktop profile: Dap, tech stack, shell and developer tools, separate live streaming tools, and core MODULA projects.</desc>
+<desc id="description">Animated desktop profile: Dap, full-stack developer for AI integration and automation, tech stack, AI copilots and shell tools, live streaming tools, and core MODULA projects.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#120810"/><stop offset=".64" stop-color="#2a091c"/><stop offset="1" stop-color="#1a0a11"/></linearGradient>
 <linearGradient id="panel"><stop stop-color="#33111f"/><stop offset="1" stop-color="#1e0b16"/></linearGradient>
 <linearGradient id="chip"><stop stop-color="#371425"/><stop offset="1" stop-color="#200c17"/></linearGradient>
@@ -11,7 +11,7 @@
 <circle cx="46" cy="44" r="7" fill="#ff456e"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
 <circle cx="72" cy="44" r="7" fill="#ffb5c8"/><circle cx="98" cy="44" r="7" fill="#c884a5"/>
 <text x="129" y="51" font-family="DejaVu Sans Mono,monospace" font-size="21" fill="#ffe5eb" font-weight="700">MODULA / DEVELOPER PROFILE</text>
-<text x="1040" y="51" font-family="DejaVu Sans Mono,monospace" font-size="17" fill="#ff94b1" >BUILD / BREAK / LEARN / REPEAT</text>
+<text x="1100" y="51" font-family="DejaVu Sans Mono,monospace" font-size="17" fill="#ff94b1" >I FLY / AI IS MY COPILOT</text>
 <path d="M35 76H1565" stroke="#9c2c4d" stroke-width="2"/>
 <path d="M35 76h210" stroke="#fa688e" stroke-width="3"><animate attributeName="stroke-dasharray" values="15 195;195 15;15 195" dur="8s" repeatCount="indefinite"/></path>
 
@@ -22,16 +22,16 @@
 <text x="363" y="342" font-family="DejaVu Sans Mono,monospace" font-size="79" fill="#e44171" font-weight="700">//</text>
 <rect x="58" y="369" width="480" height="8" rx="4" fill="url(#red)"><animate attributeName="width" values="210;480;465;480;210" dur="5.2s" repeatCount="indefinite"/></rect>
 <text x="58" y="424" font-family="DejaVu Sans Mono,monospace" font-size="26" fill="#ff8daa" font-weight="700">FULL-STACK DEVELOPER</text>
-<text x="58" y="459" font-family="DejaVu Sans Mono,monospace" font-size="26" fill="#ff8daa" font-weight="700">IN PROGRESS</text>
-<text x="58" y="494" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#ecd7df" >React + TypeScript / Rails / Shell</text>
-<text x="58" y="519" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#ecd7df" >Python / Desktop GUI / Live events</text>
+<text x="58" y="459" font-family="DejaVu Sans Mono,monospace" font-size="26" fill="#ff8daa" font-weight="700">AI INTEGRATION &amp; AUTOMATION</text>
+<text x="58" y="494" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#ecd7df" >React + TS / Next.js / Rails / Laravel</text>
+<text x="58" y="519" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#ecd7df" >Gemini / Groq / Mistral / Live events</text>
 
 <rect x="36" y="552" width="574" height="214" rx="18" fill="url(#panel)" stroke="#9c3451"/>
 <text x="60" y="593" font-family="DejaVu Sans Mono,monospace" font-size="23" fill="#ff7197" font-weight="700">ABOUT ME</text><path d="M211 588H579" stroke="#9c3451"/>
-<text x="60" y="636" font-family="DejaVu Sans Mono,monospace" font-size="21" fill="#fff2f5" >I build web apps, backend APIs,</text>
-<text x="60" y="666" font-family="DejaVu Sans Mono,monospace" font-size="21" fill="#fff2f5" >desktop tools and shell automation.</text>
-<text x="60" y="696" font-family="DejaVu Sans Mono,monospace" font-size="21" fill="#fff2f5" >I love Linux, terminal workflows,</text>
-<text x="60" y="726" font-family="DejaVu Sans Mono,monospace" font-size="21" fill="#fff2f5" >and broadcast streaming engineering.</text>
+<text x="60" y="636" font-family="DejaVu Sans Mono,monospace" font-size="21" fill="#fff2f5" >I build web apps with AI built in,</text>
+<text x="60" y="666" font-family="DejaVu Sans Mono,monospace" font-size="21" fill="#fff2f5" >chatbots and automation. AI drafts,</text>
+<text x="60" y="696" font-family="DejaVu Sans Mono,monospace" font-size="21" fill="#fff2f5" >I decide what ships. Linux addict,</text>
+<text x="60" y="726" font-family="DejaVu Sans Mono,monospace" font-size="21" fill="#fff2f5" >shell enthusiast, live streaming ops.</text>
 <rect x="36" y="783" width="280" height="142" rx="14" fill="url(#panel)" stroke="#9c3451"/>
 <text x="55" y="822" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#ff7ba2" font-weight="700">MY WORKBENCH</text>
 <text x="55" y="854" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#fff2f5" >Zsh / Bash / PowerShell 7</text>
@@ -40,8 +40,8 @@
 <rect x="329" y="783" width="281" height="142" rx="14" fill="url(#panel)" stroke="#9c3451"/>
 <text x="348" y="822" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#ff7ba2" font-weight="700">CONNECT</text>
 <text x="348" y="854" font-family="DejaVu Sans Mono,monospace" font-size="17" fill="#fff2f5" >@parikesitad-pm</text>
-<text x="348" y="880" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#fff2f5" >parikesit.ad@gmail.com</text>
-<text x="348" y="906" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#edacc1" >a MODULA project</text>
+<text x="348" y="880" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#fff2f5" >halo@d-ap.my.id</text>
+<text x="348" y="906" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#edacc1" >d-ap.my.id</text>
 <rect x="631" y="107" width="933" height="267" rx="18" fill="url(#panel)" stroke="#9c3451"/>
 <text x="655" y="149" font-family="DejaVu Sans Mono,monospace" font-size="23" fill="#ff7197" font-weight="700">TECH STACK</text>
 <text x="893" y="149" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#dd9eb5" >WEB / BACKEND / SYSTEMS</text>
@@ -58,12 +58,12 @@
 <rect x="1105" y="293" width="211" height="52" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="1114" y="301" width="31" height="31" rx="6" fill="#995bad" stroke="#775569"/><text x="1129.5" y="322" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">&gt;_</text><text x="1155" y="324" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#fff4f6" font-weight="600">Bash / Zsh</text>
 <rect x="1330" y="293" width="211" height="52" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="1339" y="301" width="31" height="31" rx="6" fill="#298bcd" stroke="#775569"/><text x="1354.5" y="322" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">PS</text><text x="1380" y="324" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#fff4f6" font-weight="600">PowerShell 7</text>
 <rect x="631" y="391" width="933" height="172" rx="18" fill="url(#panel)" stroke="#9c3451"/>
-<text x="655" y="432" font-family="DejaVu Sans Mono,monospace" font-size="22" fill="#ff7197" font-weight="700">SHELL / TOOLS &amp; ENVIRONMENT</text>
-<rect x="655" y="449" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="664" y="457" width="31" height="31" rx="6" fill="#287bdc" stroke="#775569"/><text x="679.5" y="478" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">VS</text><text x="705" y="480" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">VS Code</text>
-<rect x="880" y="449" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="889" y="457" width="31" height="31" rx="6" fill="#408d6b" stroke="#775569"/><text x="904.5" y="478" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">NV</text><text x="930" y="480" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">Neovim</text>
-<rect x="1105" y="449" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="1114" y="457" width="31" height="31" rx="6" fill="#8358a9" stroke="#775569"/><text x="1129.5" y="478" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">Kt</text><text x="1155" y="480" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">Kitty Terminal</text>
-<rect x="1330" y="449" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="1339" y="457" width="31" height="31" rx="6" fill="#d64471" stroke="#775569"/><text x="1354.5" y="478" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">★</text><text x="1380" y="480" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">Starship</text>
-<rect x="655" y="506" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="664" y="514" width="31" height="31" rx="6" fill="#d7a13d" stroke="#775569"/><text x="679.5" y="535" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">fz</text><text x="705" y="537" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">fzf</text>
+<text x="655" y="432" font-family="DejaVu Sans Mono,monospace" font-size="22" fill="#ff7197" font-weight="700">AI COPILOTS / SHELL &amp; EDITOR</text>
+<rect x="655" y="449" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="664" y="457" width="31" height="31" rx="6" fill="#287bdc" stroke="#775569"/><text x="679.5" y="478" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">CC</text><text x="705" y="480" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">Claude Code</text>
+<rect x="880" y="449" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="889" y="457" width="31" height="31" rx="6" fill="#408d6b" stroke="#775569"/><text x="904.5" y="478" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">Gm</text><text x="930" y="480" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">Gemini API</text>
+<rect x="1105" y="449" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="1114" y="457" width="31" height="31" rx="6" fill="#8358a9" stroke="#775569"/><text x="1129.5" y="478" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">Gq</text><text x="1155" y="480" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">Groq</text>
+<rect x="1330" y="449" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="1339" y="457" width="31" height="31" rx="6" fill="#d64471" stroke="#775569"/><text x="1354.5" y="478" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">Mi</text><text x="1380" y="480" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">Mistral</text>
+<rect x="655" y="506" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="664" y="514" width="31" height="31" rx="6" fill="#d7a13d" stroke="#775569"/><text x="679.5" y="535" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">NV</text><text x="705" y="537" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">Neovim</text>
 <rect x="880" y="506" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="889" y="514" width="31" height="31" rx="6" fill="#d6a34c" stroke="#775569"/><text x="904.5" y="535" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">zd</text><text x="930" y="537" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">zoxide</text>
 <rect x="1105" y="506" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="1114" y="514" width="31" height="31" rx="6" fill="#d85337" stroke="#775569"/><text x="1129.5" y="535" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">Gt</text><text x="1155" y="537" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">Git</text>
 <rect x="1330" y="506" width="211" height="47" rx="10" fill="url(#chip)" stroke="#813650"/><rect x="1339" y="514" width="31" height="31" rx="6" fill="#c54082" stroke="#775569"/><text x="1354.5" y="535" font-family="DejaVu Sans Mono,monospace" font-size="11" fill="white" text-anchor="middle" font-weight="700">Tk</text><text x="1380" y="537" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#fff4f6" font-weight="600">CustomTkinter</text>
@@ -80,10 +80,10 @@
 <text x="1290" y="798" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#e0a8bf" >11 builds</text>
 <rect x="655" y="820" width="168" height="50" rx="10" fill="url(#chip)" stroke="#ad3a5f"/><text x="668" y="852" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#ffeff5" font-weight="700">Forge</text>
 <rect x="835" y="820" width="168" height="50" rx="10" fill="url(#chip)" stroke="#ad3a5f"/><text x="848" y="852" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#ffeff5" font-weight="700">STACK</text>
-<rect x="1015" y="820" width="168" height="50" rx="10" fill="url(#chip)" stroke="#ad3a5f"/><text x="1028" y="852" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#ffeff5" font-weight="700">untitled</text>
+<rect x="1015" y="820" width="168" height="50" rx="10" fill="url(#chip)" stroke="#ad3a5f"/><text x="1028" y="852" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#ffeff5" font-weight="700">QUEICE</text>
 <rect x="1195" y="820" width="168" height="50" rx="10" fill="url(#chip)" stroke="#ad3a5f"/><text x="1208" y="852" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#ffeff5" font-weight="700">POINT</text>
 <rect x="1375" y="820" width="168" height="50" rx="10" fill="url(#chip)" stroke="#ad3a5f"/><text x="1388" y="852" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#ffeff5" font-weight="700">MODULA Base</text>
-<text x="655" y="905" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#d9a2b5" >Five core projects + shell, automation, desktop &amp; creative builds</text>
+<text x="655" y="905" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#d9a2b5" >Five core projects + Owl, the AI on d-ap.my.id</text>
 <text x="45" y="951" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#ff92b1" >crafted with &lt;3 by parikesitad-pm</text>
 <text x="1393" y="951" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#ff92b1" >a MODULA project</text>
 </svg>

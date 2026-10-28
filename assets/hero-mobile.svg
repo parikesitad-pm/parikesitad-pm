@@ -32,13 +32,13 @@
 <text class="mono" x="357" y="288" font-size="89" fill="#e5416d" font-weight="650">//</text>
 <rect x="52" y="308" width="425" height="7" rx="3" fill="url(#underline)"/>
 <rect x="52" y="308" width="140" height="7" rx="3" fill="#ffd4e0" opacity=".55"><animate attributeName="x" values="52;335;52" dur="5.8s" repeatCount="indefinite"/></rect>
-<text class="mono" x="52" y="345" font-size="25" fill="#ff98b2" font-weight="700" letter-spacing="0.1">FULL-STACK DEVELOPER IN PROGRESS</text>
+<text class="mono" x="52" y="345" font-size="25" fill="#ff98b2" font-weight="700" letter-spacing="0.1">FULL-STACK DEV · AI &amp; AUTOMATION</text>
 <rect x="30" y="372" width="660" height="186" rx="20" fill="url(#panel)" stroke="#98314c" stroke-width="1.5"/>
 <rect x="30" y="372" width="5" height="186" rx="2" fill="url(#accent)"/>
 <text class="mono" x="50" y="416" font-size="25" fill="#ff6d94" font-weight="750" letter-spacing="1.2">ABOUT ME</text>
-<text class="mono" x="50" y="464" font-size="24" fill="#f9edf1" font-weight="500">I build web apps, APIs, desktop tools,</text>
-<text class="mono" x="50" y="494" font-size="24" fill="#f9edf1" font-weight="500">and shell automation. I love Linux,</text>
-<text class="mono" x="50" y="524" font-size="24" fill="#f9edf1" font-weight="500">terminal workflows and CustomTkinter GUIs.</text>
+<text class="mono" x="50" y="464" font-size="24" fill="#f9edf1" font-weight="500">I build web apps with AI built in,</text>
+<text class="mono" x="50" y="494" font-size="24" fill="#f9edf1" font-weight="500">chatbots and automation. I fly,</text>
+<text class="mono" x="50" y="524" font-size="24" fill="#f9edf1" font-weight="500">AI is my copilot. Linux addict.</text>
 <rect x="30" y="572" width="660" height="435" rx="20" fill="url(#panel)" stroke="#98314c" stroke-width="1.5"/>
 <rect x="30" y="572" width="5" height="435" rx="2" fill="url(#accent)"/>
 <text class="mono" x="50" y="617" font-size="25" fill="#ff6d94" font-weight="750" letter-spacing="1.2">TECH STACK</text>
@@ -94,7 +94,7 @@
 <text class="sans" x="429" y="967" font-size="25" fill="#f9ebf0" font-weight="650">AWS</text>
 <rect x="30" y="1023" width="660" height="344" rx="20" fill="url(#panel)" stroke="#98314c" stroke-width="1.5"/>
 <rect x="30" y="1023" width="5" height="344" rx="2" fill="url(#accent)"/>
-<text class="mono" x="50" y="1069" font-size="25" fill="#ff6d94" font-weight="750" letter-spacing="1.2">SHELL / TOOLS</text>
+<text class="mono" x="50" y="1069" font-size="25" fill="#ff6d94" font-weight="750" letter-spacing="1.2">AI COPILOTS / SHELL</text>
 <rect x="47" y="1090" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
 <rect x="58" y="1101" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
 <rect x="64" y="1110" width="30" height="25" rx="4" fill="none" stroke="#e47daa" stroke-width="2.1"/>
@@ -112,8 +112,9 @@
 <text class="sans" x="111" y="1200" font-size="25" fill="#f9ebf0" font-weight="650">PowerShell 7</text>
 <rect x="365" y="1160" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
 <rect x="376" y="1171" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
-<path d="M387 1186L402 1175L412 1180V1205L402 1209L387 1197L382 1201L379 1196L396 1192L379 1187L383 1183Z" fill="none" stroke="#3e9df5" stroke-width="3"/>
-<text class="sans" x="429" y="1200" font-size="25" fill="#f9ebf0" font-weight="650">VS Code</text>
+<rect x="382" y="1180" width="30" height="25" rx="4" fill="none" stroke="#e8936b" stroke-width="2.1"/>
+<text class="mono" x="397" y="1198" font-size="14" fill="#e8936b" font-weight="800" text-anchor="middle">CC</text>
+<text class="sans" x="429" y="1200" font-size="25" fill="#f9ebf0" font-weight="650">Claude Code</text>
 <rect x="47" y="1230" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
 <rect x="58" y="1241" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
 <path d="M65 1250V1274L71 1279V1256M71 1250L90 1273M90 1250V1275" fill="none" stroke="#61bf80" stroke-width="4"/>
@@ -128,8 +129,8 @@
 <rect x="47" y="1300" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
 <rect x="58" y="1311" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
 <rect x="64" y="1320" width="30" height="25" rx="4" fill="none" stroke="#b57fea" stroke-width="2.1"/>
-<text class="mono" x="79" y="1338" font-size="14" fill="#b57fea" font-weight="800" text-anchor="middle">&gt;_</text>
-<text class="sans" x="111" y="1340" font-size="23" fill="#f9ebf0" font-weight="650">Kitty Terminal</text>
+<text class="mono" x="79" y="1338" font-size="14" fill="#b57fea" font-weight="800" text-anchor="middle">AI</text>
+<text class="sans" x="111" y="1340" font-size="23" fill="#f9ebf0" font-weight="650">Gemini + Groq</text>
 <rect x="365" y="1300" width="306" height="64" rx="13" fill="url(#chip)" stroke="#72304a" stroke-width="1.2"/>
 <rect x="376" y="1311" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
 <rect x="382" y="1320" width="30" height="25" rx="4" fill="none" stroke="#ffd271" stroke-width="2.1"/>
@@ -177,7 +178,7 @@
 <rect x="56" y="1781" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
 <path d="M77 1786L91 1794V1810L77 1818L63 1810V1794Z" stroke="#ffbc7e" fill="none" stroke-width="2.6"/>
 <circle cx="77" cy="1802" r="4" fill="#ffbc7e"/>
-<text class="sans" x="108" y="1811" font-size="23" fill="#ffecf1" font-weight="660">untitled</text>
+<text class="sans" x="108" y="1811" font-size="23" fill="#ffecf1" font-weight="660">QUEICE</text>
 <rect x="365" y="1773" width="306" height="58" rx="12" fill="#25101b" stroke="#873550" stroke-width="1"/>
 <rect x="374" y="1781" width="42" height="42" rx="10" fill="#170b13" stroke="#79304a" stroke-width="1"/>
 <path d="M395 1786L409 1794V1810L395 1818L381 1810V1794Z" stroke="#ff7a7e" fill="none" stroke-width="2.6"/>
@@ -193,7 +194,7 @@
 <path d="M395 1854L409 1862V1878L395 1886L381 1878V1862Z" stroke="#f9a4ba" fill="none" stroke-width="2.6"/>
 <circle cx="395" cy="1870" r="4" fill="#f9a4ba"/>
 <text class="sans" x="426" y="1879" font-size="23" fill="#ffecf1" font-weight="660">Explore all ↗</text>
-<text class="mono" x="51" y="1920" font-size="19" fill="#b989a3" font-weight="500">5 core projects  /  11 builds across MODULA</text>
+<text class="mono" x="51" y="1920" font-size="19" fill="#b989a3" font-weight="500">5 core projects  /  Owl on d-ap.my.id</text>
 <text class="mono" x="33" y="1971" font-size="19" fill="#ff92ad" font-weight="600">crafted with &lt;3 by parikesitad-pm</text>
 <text class="mono" x="686" y="1971" font-size="18" fill="#ff92ad" font-weight="600" text-anchor="end">a MODULA project</text>
 </svg>
