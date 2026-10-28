@@ -7,6 +7,8 @@
   @keyframes blink{50%{opacity:0}}
   .type{transform-box:fill-box;transform-origin:left center;animation:type 7s steps(18) infinite}
   @keyframes type{0%{transform:scaleX(0)}35%,85%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+  .tcaret{animation:tmove 7s steps(18) infinite}
+  @keyframes tmove{0%{transform:translateX(calc(var(--tw) * -1))}35%,85%{transform:translateX(0)}100%{transform:translateX(calc(var(--tw) * -1))}}
   .glow{animation:glow 3.2s ease-in-out infinite}
   @keyframes glow{0%,100%{opacity:.55}50%{opacity:1}}
   .scan{animation:scan 3.6s ease-in-out infinite}
@@ -38,7 +40,7 @@
   <path d="M428 428L521 512L428 596" fill="none" stroke="#c1c9f3" stroke-width="52" stroke-linecap="round" stroke-linejoin="round"/>
   <rect class="cur" x="564" y="576" width="88" height="40" rx="10" fill="#b5214a"/>
 </symbol>
-<clipPath id="typeclip"><rect class="type" style="--w:470px" x="190" y="240" height="70" width="470"/></clipPath>
+<clipPath id="typeclip"><rect class="type" x="190" y="240" height="70" width="490"/></clipPath>
 </defs>
 <rect width="2000" height="667" fill="url(#bg)"/><rect width="2000" height="667" fill="url(#grid)"/><rect width="2000" height="667" fill="url(#halo)"/>
 <path class="wave" d="M-400 100 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0" fill="none" stroke="#8b6cf6" stroke-opacity=".16" stroke-width="1.5" stroke-dasharray="3 7" style="animation-duration:14s"/><path class="wave" d="M-400 300 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0" fill="none" stroke="#8b6cf6" stroke-opacity=".16" stroke-width="1.5" stroke-dasharray="3 7" style="animation-duration:19s"/><path class="wave" d="M-400 470 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0" fill="none" stroke="#8b6cf6" stroke-opacity=".16" stroke-width="1.5" stroke-dasharray="3 7" style="animation-duration:24s"/><path class="wave" d="M-400 600 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0 q100 18 200 0 q100 -18 200 0" fill="none" stroke="#8b6cf6" stroke-opacity=".16" stroke-width="1.5" stroke-dasharray="3 7" style="animation-duration:29s"/>
@@ -51,8 +53,8 @@
 <text x="260" y="118" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="44" font-weight="700" fill="#ece9ff">d-ap<tspan class="caret" fill="#b5214a">_</tspan></text>
 <text x="186" y="218" font-family="'Arial Black','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="86" font-weight="900" fill="#b9a8ff" opacity=".55" filter="url(#neon)" textLength="1150" lengthAdjust="spacingAndGlyphs">DAUSAN ADAM PARIKESIT</text>
 <text x="186" y="218" font-family="'Arial Black','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="86" font-weight="900" fill="#f1eeff" textLength="1150" lengthAdjust="spacingAndGlyphs">DAUSAN ADAM PARIKESIT</text>
-<g clip-path="url(#typeclip)"><text x="190" y="290" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="44" font-weight="700" fill="#a78bfa"><tspan fill="#8b6cf6">&gt;</tspan> just call me dap</text></g>
-<rect class="caret" x="672" y="254" width="4" height="46" fill="#ece9ff"/>
+<g clip-path="url(#typeclip)"><text x="190" y="290" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="44" font-weight="700" fill="#a78bfa" textLength="480" lengthAdjust="spacing"><tspan fill="#8b6cf6">&gt;</tspan> just call me dap</text></g>
+<g class="tcaret" style="--tw:480px"><rect class="caret" x="678" y="254" width="4" height="46" fill="#ece9ff"/></g>
 <text x="190" y="332" font-family="'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="24" letter-spacing="5" fill="#c9c3e6">JAKARTA · INDONESIA</text>
 <text x="186" y="413" font-family="'Arial Black','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="72" font-weight="900" fill="#f1eeff" textLength="912" lengthAdjust="spacingAndGlyphs">FULL-STACK DEVELOPER</text>
 <g class="glow"><text x="186" y="489" font-family="'Arial Black','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="70" font-weight="900" fill="none" stroke="#8b6cf6" stroke-width="10" opacity=".55" filter="url(#neon)" textLength="1194" lengthAdjust="spacingAndGlyphs">AI INTEGRATION &amp; AUTOMATION</text></g>
