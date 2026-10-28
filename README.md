@@ -3,7 +3,7 @@
   <a href="https://d-ap.my.id">
     <picture>
       <source media="(max-width: 767px)" srcset="./assets/hero-mobile.svg" />
-      <img src="./assets/hero-desktop.svg" alt="Call me Dap — full-stack developer, AI integration and automation: about me, tech stack, AI copilots, live streaming and MODULA projects" width="100%" />
+      <img src="./assets/hero-desktop.svg" alt="Dausan Adam Parikesit — just call me dap. Full-Stack Developer, AI Integration &amp; Automation. Scan to reach d-ap.my.id" width="100%" />
     </picture>
   </a>
 
@@ -12,9 +12,9 @@
   <p><sub>React · Next.js · TypeScript · Rails · Laravel · Gemini / Groq / Mistral · Zsh / Bash · vMix / OBS · Jakarta</sub></p>
 
   <p>
-    <a href="https://d-ap.my.id"><img alt="Portfolio d-ap.my.id" src="https://img.shields.io/badge/PORTFOLIO-d--ap.my.id-B82149?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
-    <a href="https://d-ap.my.id/ask"><img alt="Ask Owl about Dap" src="https://img.shields.io/badge/ASK-OWL%20·%20DAP'S%20AI-A5314F?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" /></a>
-    <a href="mailto:halo@d-ap.my.id"><img alt="Contact by email" src="https://img.shields.io/badge/CONTACT-halo@d--ap.my.id-401923?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+    <a href="https://d-ap.my.id"><img alt="Portfolio d-ap.my.id" src="https://img.shields.io/badge/PORTFOLIO-d--ap.my.id-8B6CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
+    <a href="https://d-ap.my.id/ask"><img alt="Ask Owl about Dap" src="https://img.shields.io/badge/ASK-OWL%20·%20DAP'S%20AI-6D4ED8?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" /></a>
+    <a href="mailto:halo@d-ap.my.id"><img alt="Contact by email" src="https://img.shields.io/badge/CONTACT-halo@d--ap.my.id-2A2340?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
   </p>
 
 </div>
